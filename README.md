@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Edoardo and I'm a computer science student.
+
+📫 Contact with me:
+- <a href="mailto: edoardocecchinato.ec@gmail.com">Email</a>
+- <a href="https://www.linkedin.com/in/edoardo-cecchinato-4799a9247/" target="_blank">LinkedIn</a>
+
 <!--
 **edo-ce/edo-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
